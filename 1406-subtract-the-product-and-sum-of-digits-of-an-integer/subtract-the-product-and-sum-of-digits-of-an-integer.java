@@ -8,8 +8,6 @@ class Solution {
 			sum+=r;
 			n/=10;
 		}
-		int result= pro-sum;
-		System.out.println(result);
-		return result; 
+		return pro-sum; 
     }
 }
